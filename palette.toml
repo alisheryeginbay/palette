@@ -10,6 +10,7 @@ gray_light = "#dcd7e0"   # recessive fills (faintly mauve-tinted)
 
 [accent]
 primary = "#8a6aa8"   # dusty mauve — the "look here" color
+secondary = "#b9a3cc"   # lighter mauve tint
 
 # Categorical sequence for charts needing N distinguishable colors.
 # Leads with ink + mauve (so 1-2 category charts stay on-brand), then
