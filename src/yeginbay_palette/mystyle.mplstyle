@@ -24,7 +24,7 @@ axes.labelsize: 11
 axes.spines.top:   False
 axes.spines.right: False
 axes.linewidth:    0.6
-axes.grid:         True
+axes.grid:         False
 grid.color:        6e6e6e
 grid.alpha:        0.15
 grid.linewidth:    0.5
