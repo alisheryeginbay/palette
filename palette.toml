@@ -1,0 +1,11 @@
+[neutral]
+ink   = "#1a1a2e"   # foreground / darkest
+paper = "#fffff8"   # background
+gray  = "#6e6e6e"   # secondary text, rules
+gray_light = "#dcd7e0"   # recessive fills (faintly mauve-tinted)
+
+[accent]
+primary = "#8a6aa8"   
+
+[categorical]   # Bang Wong's colorblind-safe set
+colors = ["#1a1a2e", "#8a6aa8", "#56B4E9", "#009E73", "#E69F00", "#CC79A7", "#0072B2", "#D55E00"]
